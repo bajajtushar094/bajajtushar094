@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ankit-saraf" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/bajajtushar094" />
 </p>
 
 <p align="center">
@@ -20,11 +20,12 @@
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/l0HeqpHy8Gkwlwuly/giphy.gif" />
 
 ### I am an Ungergrad at IIT Guwahati
-- 🔭 I am a web developer :grin:
-- 🔭 I’m currently learning Djanbo-Rest Framework :grin:
-- 🥅 2021 Goals: Secure a good internship.
-- 💬 Always ready to have a chat :smile:
-- ⚡ Fun fact: My perfect day would start with coffee and end with smile :raised_hands:
+- 🔭 I’m currently working on App Development.
+- 🌱 I’m currently learning Backend Web Development and Machine Learning.
+- 👯 I’m looking to collaborate on Full Stack App or Web Development Projects.
+- 🤔 My teckstacks: Flutter & Dart, Firebase, Linux, Git, MySQL.
+- 🎓 Languages: C, C++, Java, Python, HTML, CSS, Javascript.
+- 💬 Ask me about App development & Web Development.
 
 <br>
 
