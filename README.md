@@ -22,10 +22,8 @@
 ### I am an Ungergrad at IIT Guwahati
 - 🔭 I am a web developer :grin:
 - 🔭 I’m currently learning Djanbo-Rest Framework :grin:
-<!-- - 🌱 I’m currently interning at Sabertooth Technologies. -->
 - 🥅 2021 Goals: Secure a good internship.
 - 💬 Always ready to have a chat :smile:
-<!-- - 📬 Wanna reach me: [Lets have a chat][linkedin] -->
 - ⚡ Fun fact: My perfect day would start with coffee and end with smile :raised_hands:
 
 <br>
@@ -52,13 +50,13 @@
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-bajaj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Tushar's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bajajtushar094&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Tushar's Github Stats">
 </p>
 
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-saraf&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bajajtushar094&show_icons=true&hide_border=true&theme=radical">
 </p>
 
 <!-- repos
