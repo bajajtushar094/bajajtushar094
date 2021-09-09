@@ -19,7 +19,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/l0HeqpHy8Gkwlwuly/giphy.gif" />
 
-### I am an Ungergrad at IIT Guwahati
+### I am an Undergrad at IIT Guwahati
 - 🔭 I’m currently working on App Development.
 - 🌱 I’m currently learning Backend Web Development and Machine Learning.
 - 👯 I’m looking to collaborate on Full Stack App or Web Development Projects.
